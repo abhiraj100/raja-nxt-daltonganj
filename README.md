@@ -22,7 +22,7 @@ npm run preview
 
 Navigate to `/admin-login` and enter:
 
-**Password:** `admin@raja123`
+**Password:** `admin@access123`
 
 ## ✨ What's New in v2.0
 
